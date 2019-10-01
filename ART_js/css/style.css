@@ -1,0 +1,61 @@
+.centerbox{
+    -webkit-order: 2;
+    order: 2;
+}
+
+.jspsych-instructions-nav {
+    -webkit-order: 3;
+    order: 3;
+}
+
+.sample_img {
+    margin: auto;
+    text-align: center
+}
+
+.display_stage{
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: center; -moz-box-align: center; /* OLD… */
+    -ms-flex-align: center; 
+    -webkit-align-items: center;
+    align-items: center;
+}
+
+
+.center-content{
+	-webkit-order: 2;
+    order: 2;
+}
+
+#bottom_img{
+    height:132px;
+    width: 480px;
+    padding-top: 15px;
+}
+
+#top_img {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 80%;
+      padding-bottom: 1px;
+      border: 1px solid #A9A9A9;
+}
+
+#jspsych-poldrack-survey-multi-choice-form {
+    -webkit-order: 1;
+    order: 1;
+    margin: 3vh 3vw auto 3vw;
+}
+
+.jspsych-survey-multi-choice-nav{
+    -webkit-order: 3;
+    order: 3;
+}
+
+.jspsych-poldrack-survey-multi-choice-opts {
+    font-size: 20px;
+}

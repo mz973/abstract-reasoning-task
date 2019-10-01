@@ -1,0 +1,31 @@
+var trial_data = [{
+    "soundNumber": 0,
+    "correct": 3,
+    "version": 1,
+    "fileName": "antiphase_HC_IOS.mp3",
+}, {
+    "soundNumber": 1,
+    "correct": 2,
+    "version": 1,
+    "fileName": "antiphase_HC_ISO.mp3",
+}, {
+    "soundNumber": 2,
+    "correct": 3,
+    "version": 2,
+    "fileName": "antiphase_HC_OIS.mp3",
+}, {
+    "soundNumber": 3,
+    "correct": 2,
+    "version": 2,
+    "fileName": "antiphase_HC_OSI.mp3",
+}, {
+    "soundNumber": 4,
+    "correct": 1,
+    "version": 1,
+    "fileName": "antiphase_HC_SIO.mp3",
+}, {
+    "soundNumber": 5,
+    "correct": 1,
+    "version": 2,
+    "fileName": "antiphase_HC_SOI.mp3",
+}];
